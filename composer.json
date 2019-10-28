@@ -19,6 +19,7 @@
   "autoload": {
     "psr-4": {
       "Green\\": "src/aliyuncs/aliyun-php-sdk-green/Green"
-    }
+    },
+    "files": ["src/aliyuncs/aliyun-php-sdk-core/Config.php"]
   }
 }
